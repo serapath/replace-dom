@@ -1,6 +1,6 @@
 {
   "name": "replace-dom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace a node in the DOM with a given node",
   "main": "index.js",
   "scripts": {
